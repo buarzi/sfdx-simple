@@ -1,9 +1,16 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app"
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "package": "DxPackage01",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
+        }
+    ],
+    "namespace": "",
+    "sourceApiVersion": "39.0",
+    "packageAliases": {
+        "DxPackage01": "0Ho5J000000fxUHSAY"
     }
-  ],
-  "namespace": "",
-  "sourceApiVersion": "39.0"
 }
